@@ -10,6 +10,7 @@ function App() {
     <>
      
      <Navbar></Navbar>
+     <Footer></Footer>
      
       
     </>
@@ -17,3 +18,4 @@ function App() {
 }
 
 export default App
+
