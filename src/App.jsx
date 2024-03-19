@@ -1,9 +1,9 @@
 import { useState } from "react";
 import "./App.css";
-import BannerSection from "./components/BannerSection";
-import Header from "./components/Header";
-import RecipesSections from "./components/RecipesSections";
-import Tables from "./components/Tables";
+import BannerSection from "./Components/BannerSection";
+import Header from "./Components/Header";
+import RecipesSections from "./Components/RecipesSections";
+import Tables from "./Components/Tables";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
@@ -55,4 +55,3 @@ function App() {
 }
 
 export default App;
-
