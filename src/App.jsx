@@ -37,10 +37,9 @@ function App() {
             Our Recipes
           </h3>
           <p className="text-[#150B2B99] mt-3 lg:text-base text-sm">
-            Lorem ipsum dolor sit amet consectetur. Proin et feugiat senectus
-            vulputate netus pharetra rhoncus. Eget
+          Please enjoy the cooking demonstration below and give this native and Giving Grove-inspired recipe a try at home! 
             <span className="block">
-              urna volutpat curabitur elementum mauris aenean neque.
+            Pecan Pesto with Smoked Oyster Mushrooms & Wild Rice.
             </span>
           </p>
         </div>

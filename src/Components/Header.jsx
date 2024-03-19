@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <div className="xl:w-8/12 mx-auto my-3 xl:px-0 px-5">
       <div className="flex items-center justify-between">
-        <h2 className="sm:text-2xl text-xl font-bold">Recipe Calories</h2>
+        <h2 className="sm:text-2xl text-xl font-bold">Enjoy Recipe</h2>
        <nav className="lg:block hidden">
        <ul className="flex gap-5 text-base text-[#150B2BB3]">
             <li><a href="#">Home</a></li>

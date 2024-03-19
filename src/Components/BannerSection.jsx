@@ -9,9 +9,8 @@ export default function BannerSection() {
             <span className="sm:block">class tailo red for you!</span>
           </h3>
           <p className="leading-7 ">
-            Learn and Master Basic Programming, Data Structures, Algorithm, OOP,
-            Database and solve 500+ coding <span className="lg:block">problems to become an exceptionally
-            well world-class Programmer.</span>
+          Viewing cooking videos can offer a range of mental health benefits, 
+         as it engages multiple senses<span className="lg:block">provides a creative outlet, and promotes relaxation.</span>
           </p>
           <div className="flex sm:flex-row flex-col items-center sm:gap-4 gap-6">
             <button className="bg-primary hover:bg-secondary  h-11 w-32  text-gray-800 font-semibold rounded-full  ">Explore Now</button>
