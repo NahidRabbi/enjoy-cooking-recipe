@@ -1,0 +1,100 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "Classic Italian pasta dish with savory meat sauce.",
+      "ingredients": [
+        "400 g spaghetti",
+        "150 g pancetta, diced",
+        "3 eggs",
+        "50 g grated Parmesan cheese",
+        "2 cloves garlic, minced",
+        "Salt and black pepper to taste"
+      ],
+      "preparing_time": "20 min",
+      "calories": "420 calories",
+      "image_url": "https://i.ibb.co/TTcX1yX/Rectangle-20170-1.png"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Chicken Caesar Salad",
+      "short_description": "Classic Italian pasta dish with savory meat sauce.",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 lemons, juiced and zested",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "1 tablespoon chopped fresh dill",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "15 min",
+      "calories": "350 calories",
+      "image_url": "https://i.ibb.co/gPQDRMx/Rectangle-20170.png"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "Creamy Arborio rice cooked with flavorful mushrooms and Parmesan cheese.",
+      "ingredients": [
+        "300 g Arborio rice",
+        "200 g mushrooms, sliced",
+        "1 onion, finely chopped",
+        "1 liter vegetable broth",
+        "50 g grated Parmesan cheese",
+        "2 tablespoons butter"
+      ],
+      "preparing_time": "35 min",
+      "calories": "380 calories",
+      "image_url": "https://i.ibb.co/5G1Y0y2/Bacon-and-mushroom-risotto-recipe.webp"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Chicken Caesar Salad",
+      "short_description": "A classic salad with grilled chicken, crisp lettuce, and tangy Caesar dressing.",
+      "ingredients": [
+        "2 chicken breasts, grilled and sliced",
+        "1 head romaine lettuce, chopped",
+        "50 g croutons",
+        "30 g grated Parmesan cheese",
+        "120 ml Caesar dressing",
+        "2 teaspoons chili powder"
+      ],
+      "preparing_time": "25 min",
+      "calories": "280 calories",
+      "image_url": "https://i.ibb.co/52kxQbn/HERO-RT.jpg"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Vegetarian Chili",
+      "short_description": "A hearty chili made with beans, vegetables, and savory spices.",
+      "ingredients": [
+        "400 g canned kidney beans",
+        "200 g canned black beans",
+        "1 onion, diced",
+        "2 bell peppers, diced",
+        "400 g canned diced tomatoes",
+        "2 cloves garlic, minced"
+       
+      ],
+      "preparing_time": "40 min",
+      "calories": "320 calories",
+      "image_url": "https://i.ibb.co/Kr9DTnk/chilli.jpg"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Blueberry Oatmeal Smoothie",
+      "short_description": "A refreshing and nutritious smoothie packed with blueberries and oats.",
+      "ingredients": [
+        "1 cup frozen blueberries",
+        "1 banana",
+        "1/2 cup rolled oats",
+        "240 ml almond milk",
+        "1 tablespoon honey",
+        "1/2 teaspoon vanilla extract"
+      ],
+      "preparing_time": "10 min",
+      "calories": "250 calories",
+      "image_url": "https://i.ibb.co/SRGFMmL/oatmeal-smoothie.jpg"
+    }
+  ]
+  
